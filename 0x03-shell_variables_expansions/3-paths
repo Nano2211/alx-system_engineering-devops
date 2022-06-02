@@ -1,2 +1,2 @@
 #!/bin/bash
-ls  |wc -l  
+cat file1 file2  
